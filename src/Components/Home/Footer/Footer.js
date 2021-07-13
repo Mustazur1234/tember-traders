@@ -15,7 +15,7 @@ const Footer = () => {
             <div className="col-md-4">
                 <h4>CONTACT US</h4>
                 <p>Aganagar, Keraniganj, Dhaka-1310</p>
-                <p style={{color:'#a57d3d'}}><strong>Email:</strong>1uttsawmill@gmail.com</p>
+                <p style={{color:'#a57d3d'}}><strong>Email:</strong>mr2480379@gmail.com</p>
             </div>
             <div className="col-md-4">
                 <h4>FOLLOW US</h4>
