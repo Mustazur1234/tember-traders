@@ -1,0 +1,11 @@
+.mySwiper{
+    left: 0;
+}
+.test{
+    padding-left: 150px;
+}
+@media (max-width:600px) {
+    .test{
+        padding-right: 150px;
+    }
+}
